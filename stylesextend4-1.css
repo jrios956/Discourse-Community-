@@ -1,0 +1,9 @@
+table 			{text-align: center;}
+.twentyfive		{width: 25%;}
+.twelve			{width: 12%;}
+th.blue			{background-color: #4174ab;
+				color:white;}
+td.instructors	{font-weight: bold;
+				text-align: left;
+				color: white;
+				background-color: #4174ab;}
